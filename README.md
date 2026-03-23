@@ -1,7 +1,7 @@
 # 🎬 My Movies Collection - MMC
 MMC is a personal digital library created to store your watch list movies in a digital formate with custom categorization.
 
-###  Why use this?
+### 🔍 Why use this?
 - Searching on Google and taking manual screenshots.Are Use other notes taking apps , type the movie name or past the movie Link.
 - Is not specialized way to store your watch list movie.
 - This app gives you separate place to store and share your wishlist movies in the digitalized way. 
@@ -25,17 +25,20 @@ MMC is a personal digital library created to store your watch list movies in a d
 2. Profile Page
     - You can see your details of profile and edit.
 
-3. wishList:
+3. WishList:
     - Shows the added wishlist by categories.
     - The saved watch list movies are stored in data base,  You can add , edit and delete
 
-4. share:
+4. Share:
     - you can share your wishlist movies to your friends.
 
-## Tech Stacks
+## ⛏️ Tech Stacks
 
 | | |
 |-|-|
 | Frontend | React + Tailwind CSS |
 | Backend | Node js + Express js |
 | DataBase | Mongo DB |
+
+## 📃 Documentation
+[Download my PPT](./ppt/My-Movies-Collection-2.pptx)
