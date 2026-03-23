@@ -9,12 +9,16 @@ MMC is a personal digital library created to store your watch list movies in a d
 ## 📊 Where we get the data 
  The Movie data are all get from the (TMDB API)[https://www.themoviedb.org/]
 
+ ---
+
 ## Roles
 ## 👥 Guest User
   Guest user can only see and filter the movies.Registered users can only add their wishList.
 
 ## 👤 Login User
   Login users can see, add their wish list movies and share their playlist.
+
+  ---
 
 ## 📦 Features & Pages
 1. Home Page
@@ -32,6 +36,8 @@ MMC is a personal digital library created to store your watch list movies in a d
 4. Share:
     - you can share your wishlist movies to your friends.
 
+    ---
+
 ## ⛏️ Tech Stacks
 
 | | |
@@ -39,6 +45,8 @@ MMC is a personal digital library created to store your watch list movies in a d
 | Frontend | React + Tailwind CSS |
 | Backend | Node js + Express js |
 | DataBase | Mongo DB |
+
+---
 
 ## 📃 Documentation
 [Download my PPT](./ppt/My-Movies-Collection-2.pptx)
